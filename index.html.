@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chuyển hướng Delta</title>
+  <meta http-equiv="refresh" content="0;url=https://www.mediafire.com/file/75z91svyi3e6fcy/Delta+V2.743+Quoc+Te.apk/file">
+</head>
+<body>
+  <p>Đang chuyển hướng...</p>
+  <script>
+    window.location.replace(
+      "https://www.mediafire.com/file/75z91svyi3e6fcy/Delta+V2.743+Quoc+Te.apk/file"
+    );
+  </script>
+</body>
+</html>
