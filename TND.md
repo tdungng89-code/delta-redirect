@@ -1,7 +1,7 @@
 
 
 
-https://cdn.discordapp.com/attachments/1420343552998772796/1556635764849381416/Kasumi_Store.apk?backend=b2&ex=6ae09107&is=6adf3f87&hm=ffa8965ec9642c772ef8adac670e28872596addec335e85a0f58ab4ecc4b1bee&
+https://cdn.discordapp.com/attachments/1420343552998772796/1565317971910336512/Kasumi_Store.apk?ex=6ae47776&is=6ae325f6&hm=23f3d26ed039ae6d7a29a2ca1389f78d6c5943a10aec5ebfdd9ec98071634713&
 
 
 
